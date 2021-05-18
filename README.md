@@ -1,0 +1,2 @@
+# THIS IS DISCORD BOT PROGRAM
+Thank you!  
